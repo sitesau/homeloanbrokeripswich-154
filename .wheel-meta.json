@@ -1,0 +1,22 @@
+{
+  "wheel_id": 936,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-154",
+  "project": "mortgage-broker-ipswich-budget-tips-e721940c225d9fb2915ff6e921e",
+  "parent_t1_ref": "homeloanbrokeripswich-013",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich budget tips",
+  "intended_url": "https://sitesau.github.io/homeloanbrokeripswich-154/",
+  "tier": "T2",
+  "writeback_nonce": "116f07736cbb3132",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/mortgage-broker-ipswich-homeloanbrokeripswich-013/",
+      "anchor": "Mortgage Broker Ipswich: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
